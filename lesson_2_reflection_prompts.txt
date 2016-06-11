@@ -1,8 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 Git sets up an environment to track changes made to files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
 Staging area allows you setup which files you want track versions.
 
 How can you use the staging area to make sure you have one commit per logical
@@ -12,6 +14,8 @@ I am able to add files to staging area with changes I am ready to commit.  Befor
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches allows there to be several working versions of code.  With multiple versions you can try different ideas to write the code.  
 
 How do the diagrams help you visualize the branch structure?
 
