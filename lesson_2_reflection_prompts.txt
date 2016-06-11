@@ -8,6 +8,8 @@ Staging area allows you setup which files you want track versions.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I am able to add files to staging area with changes I am ready to commit.  Before committing the files I am able to compare the file or files to the master branch.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
